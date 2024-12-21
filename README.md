@@ -1,11 +1,5 @@
 # PLBF
 Un bot para "Hacer trampa" en los links de pago y asi recibir mas visitas
- _____    _        ____    ______ 
-|  __ \  | |      |  _ \  |  ____|
-| |__) | | |      | |_) | | |__   
-|  ___/  | |      |  _ <  |  __|  
-| |      | |____  | |_) | | |     
-|_|      |______| |____/  |_|  
 Paid Link Bot Farm
 
 PARA HACER FUNCIONAR EL BOT DEBE SEGUIR LOS SIGUENTES PASOS:

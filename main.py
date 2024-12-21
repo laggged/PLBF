@@ -13,7 +13,6 @@ paylink = input("introduzca el link de pago:" )
 browser = input("Introduzca su navegador:" )
 step = 0 
 
-#mi link https://ouo.io/21sGS8s
 
 def stepuno():
     pag.press("win")

@@ -10,11 +10,10 @@ import time as t
  
 print("ESTA UTILIZANDO P.L.B.F (Paid link bot farm) Hecho por Laggg")
 print("ESTA EN EL MODO DE LINK FIJO PARA CAMBIAR EL LINK O NAVEGADOR DEBE EDITAR EL CODIGO(SOLO USUARIOS AVANZADOS)")
-paylink = "https://ouo.io/21sGS8s"
-browser = "firefox"
+paylink = ""#Tu link
+browser = ""#Tu navegador
 step = 0 
 
-#mi link https://ouo.io/21sGS8s
 
 def stepuno():
     pag.press("win")

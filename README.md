@@ -4,9 +4,7 @@ Un bot para "Hacer trampa" en los links de pago y asi recibir mas visitas
 PARA HACER FUNCIONAR EL BOT DEBE SEGUIR LOS SIGUENTES PASOS:
 
 1-Instalar Python 3.12 (Solo se a provado que funcione en esta en versiones superiores da error) durante la instalacion asegurece de marcar la casilla "Instalar en la raiz del sistema".
-2-Ejecute el siguiente comando (Mediante el cmd):
-
-pip install -r requirements.txt
+2-Ejecute el archivo instalar-dependencias.py si presenta algun error elimine el cache.txt
 
 Si el comando no funciona intente con el siguiente comando si da error vuelva a hacer el paso 1:
 
